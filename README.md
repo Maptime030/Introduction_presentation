@@ -1,4 +1,4 @@
-# Introduction_presentation
+# Introduction presentation
 General Meetup introduction
 
-[> CLICK HERE <](maptime030.github.io/Introduction_presentation) 
+[> CLICK HERE <](https://maptime030.github.io/Introduction_presentation/) 
